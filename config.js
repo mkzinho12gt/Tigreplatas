@@ -3,6 +3,7 @@ window.SITE_CONFIG = {
   platforms: [
     {
       name: "78D",
+      image: "./78d.png"
       badge: "Em alta",
       rtp: "96.8%",
       payout: "Pix minutos",
@@ -11,6 +12,7 @@ window.SITE_CONFIG = {
     },
     {
       name: "Arara Games",
+      image: "./arara.png"
       badge: "RTP alto",
       rtp: "96.5%",
       payout: "Pix na hora",
@@ -19,6 +21,7 @@ window.SITE_CONFIG = {
     },
     {
       name: "55QQ",
+      image: "./55qq.png"
       badge: "Pix rápido",
       rtp: "96.2%",
       payout: "Pix minutos",
@@ -27,6 +30,7 @@ window.SITE_CONFIG = {
     },
     {
       name: "Nove Games",
+      image: "./.png"
       badge: "Pagando",
       rtp: "96.0%",
       payout: "Pix minutos",
